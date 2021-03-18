@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration SYSTEM "b1-conf.dtd">
+
+<configuration>
+
+  <node name="REGISTRY">
+    <node name="HKEY_CURRENT_USER">
+      <node name="SOFTWARE">
+        <node name="SAP">
+          <node name="SAP Manage">
+          </node>
+        </node>
+      </node>
+    </node>
+  </node>
+
+</configuration>
