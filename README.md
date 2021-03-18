@@ -7,9 +7,11 @@
 For you who are going or will go through the situation where you are unable to log into SAP, and you are faced with the service manager in the situation below. (Service manager disabled)
 
 Situation 1 
+
 ![Screenshot](img/1.png)
 
 Situation 2
+
 ![Screenshot](img/2.png)
  
 # How to solve ?
