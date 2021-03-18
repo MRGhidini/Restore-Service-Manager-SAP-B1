@@ -14,7 +14,7 @@ Situation 2
  
 # How to solve ?
 
-Just run download run a latest version at link (here [Download last version](https://github.com/MRGhidini/SHM/releases/latest))
+Just run download run a latest version at link (here [Download last version](https://github.com/MRGhidini/Restore-Service-Manager-SAP-B1/releases/latest))
 
 ![Screenshot](img/3.png)
  
